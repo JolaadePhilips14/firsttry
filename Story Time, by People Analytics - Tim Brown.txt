@@ -1,0 +1,59 @@
+﻿Story Time, by People Analytics
+
+
+  
+
+
+
+
+
+Everybody loves a good story. :-) 
+
+
+Growing up in our row home in northeast Philadelphia, some of my fondest memories involved being read children’s bedtime stories. Whether Frog and Toad are Friends or Where the Wild Things Are, almost every great story follows a similar structure, from exposition to resolution and themes.
+
+
+The same can’t always be said about what story your People Analytics data tells. Questions often arise without context - examples could include - why is turnover increasing for specific job families, what caused our time-to-fill to decrease, or what is driving the change in employee morale levels? 
+
+
+Traditional People Analytics dashboards can do a decent job displaying the “what” but frequently miss the context of the “why.” This is driving some of the newest entrants into the burgeoning PAAS (People Analytics as a Service) sector to pivot towards storytelling-based reporting, where data can best be presented through the lens of the highlighted business process. 
+
+
+  
+
+
+
+One experience that stood out for me happened while leading a hiring project as a Tech Recruiting leader at Google … data highlighted that iOS engineers weren’t meeting the hiring bar at the same rate as Android and full-stack developers, impacting the business. Yet the story was more complex; while probing into multiple dimensions of our assessment processes and even some cultural norms over several months, the opportunities to address broadened and required more explanation. (TLDR;  we learned that iOS talent had to be assessed differently, and Google was eventually able to increase hires exponentially!). 
+
+
+The key challenge in implementing these changes at Google required explaining the problem accurately to hundreds of engineers and dozens of Hiring Committees, having the data and charts prepared to explain the opportunity and approach, reference examples that highlighted the human and business impact, and a key call to action for executive sponsors to help implement the changes. 
+
+
+Understanding that storytelling brings depth and context to People Analytics. Let's explore the steps you can take to make your data come to life:
+
+
+1. Understand Your Audience: Before crafting your data story, know your audience. Are you presenting to HR professionals, senior leadership, or a broader audience? Tailor your storytelling approach to their level of expertise and interests.
+2. Start with a Compelling Hook: Begin your story with a hook that grabs your audience's attention. It could be a surprising statistic, an anecdote, or a real-world problem the data will help solve.
+3. Clearly Define the Problem: Identify the specific issue or challenge you're addressing with your People Analytics data. Clearly articulate what you're trying to solve or understand.
+4. Data Collection and Analysis: Explain how you collected and analyzed the data. Where necessary, provide insights into your methods and tools; this will help build credibility and trust in your findings.
+5. Use Data Visualization: Visual aids such as charts, graphs, and infographics can make complex data more accessible. Ensure that your visualizations are easy to understand and support your points.
+6. Tell a Narrative: Weave the data into a narrative that follows a logical structure, similar to a traditional story. This structure typically includes exposition (setting the stage), rising action (uncovering insights), climax (the main discovery), falling action (actionable recommendations), and resolution (the impact of your findings).
+7. Contextualize the Data: Don't just present numbers; explain what they mean in the context of your organization and its goals. Connect data points to real-world situations and outcomes.
+8. Humanize the Data: Use real stories and anecdotes to illustrate the impact of the data on individuals or teams within the organization; this can make the data more relatable and memorable.
+9. Highlight Key Findings: Emphasize the most critical findings or insights addressing your identified problem. Make sure your audience understands the significance of these findings.
+10. Provide Actionable Recommendations: Based on your findings, offer clear and practical recommendations for how the organization can address the issue or capitalize on opportunities.
+11. Address Complexity: Acknowledge and explain any complexities or nuances in the data. Sometimes, the story behind the data is more intricate than it appears, as in your Google example.
+12. Engage in Q&A: Be prepared to answer questions and engage in discussions with your audience; this can help clarify any uncertainties and demonstrate your expertise in the subject matter.
+13. Practice and Feedback: Practice your storytelling presentation and gather feedback from colleagues or mentors to help refine your delivery and ensure your story is clear and impactful.
+14. Continuously Update: People Analytics is an evolving field. Keep your data stories current and adapt them as new data and insights become available.
+15. Use Technology Wisely: Explore tools and platforms to enhance your storytelling, such as interactive dashboards, data storytelling software, and advanced data visualization tools.
+
+
+Remember that effective storytelling in People Analytics is not just about presenting data; it's about delivering insights that drive meaningful actions and positive change within the organization. Your ability to tell a compelling data story can significantly affect how your audience perceives and acts upon the data you present.
+
+
+  
+
+
+
+Just as those childhood bedtime stories captivated our imagination and left a lasting impact, your People Analytics data can have a profound effect when presented as a compelling narrative. By following these steps to improve your storytelling, you can bridge the gap between raw data and actionable insights, guiding your organization towards better decisions and, ultimately, achieving its goals. Remember, the art of storytelling in People Analytics is a powerful tool capable of driving change, solving complex challenges, and creating a brighter future for your organization and its people. So, embrace the power of storytelling and unlock the true potential of your People Analytics data.

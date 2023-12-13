@@ -1,0 +1,112 @@
+﻿So You're Tempted to Build Your Own People Analytics Tool? Here's Some 'Friendly' Advice!’
+  
+
+
+
+Ah, the allure of DIY[a]! Much like growing your own tomatoes or brewing that homemade craft beer, there’s undeniable pride in saying, “I made that!” 
+
+So now, you’re considering investing in people analytics and thinking, “Why not build our own tool?” Before you roll up your sleeves and dive into lines of code or spreadsheets, let’s take a moment to chat.
+
+
+We get the enthusiasm. Really, we do. 
+
+There's something magical about building something from the ground up, customized to every nuanced need of your organization. But as with all DIY projects, there's a fine line between "This was the best idea ever!" and "What on earth were we thinking?"
+
+
+Why Do We Even Want People Analytics?[b]
+  
+
+People analytics is not just about collecting data; it’s the lighthouse guiding us through the foggy seas of decision-making. Why did Tim from sales resign abruptly? How did that impact their team and why did Sarah leave a few months after? 
+
+Also, on a broader scale, people analytics plays a pivotal role in ensuring businesses thrive. After all, a company isn’t built on bricks and mortar; it's constructed on the backs of its employees. And it's always a good plan to make sure those backs aren’t close to breaking, metaphorically speaking.
+
+
+People analytics gives us those Sherlock Holmes moments - connecting the dots, understanding trends, and ensuring we're not just reacting to issues, but being proactive. It’s the secret sauce to ensuring that the business hums along nicely, while employees feel understood, valued, and well, less inclined to hoist a pirate flag and mutiny.
+
+
+So yes, while we could dwell in our assumptions and guesswork, people analytics offers that golden ticket to actionable insights and real understanding. And who doesn’t want a peek into that kind of magic? But, if you're still considering building that magic from scratch, well, keep reading...
+
+
+Understanding Your True Motivations[c]
+  
+
+Let's paint a little picture for a moment. You're a highly-trained doctor, respected in your field, and someone hands you a pile of bricks, some cement, and a trowel. They then tell you, "Alright, champ. Build your house." 
+
+Sounds ridiculous, right? 
+
+It should, because you wouldn't expect someone trained in one profession to magically possess the expertise of another. Yet, when it comes to people analytics, organizations often think they can create an intricate tool without the necessary specialized expertise.
+
+
+This analogy isn't just about the obvious mismatch of skills. It's a deep dive into why organizations sometimes choose the DIY route.
+
+
+Ask yourself: What's the real motivation behind wanting to build in-house?
+
+
+It's tempting to believe that diving into the “in-house development world” can make one a Jack of all trades. Suddenly, you're not just handling HR tasks; you're also on the verge of mastering Tableau! But this prowess might not be for the collective good of the organization. If we're brutally honest, sometimes, it's a flashy addition to the personal repertoire—a shiny badge of "Look what I can do!"
+
+
+And here's the crux of the matter: owning the platforms can feel like holding the Infinity Stones. Power. Control. Dominance. But this power isn't always wielded for the betterment of the company. Sometimes, it's about personal development, self-promotion, and the sheer thrill of creating something from scratch. There's no shame in admitting it. Personal growth is fabulous. But when this becomes the primary motivation, the actual needs of the organization might be sidelined.
+
+
+If the essence of a people analytics team becomes more about maintaining a certain image, dominating the narrative, or simply delivering for the sake of delivery, then building in-house might seem like the way to go. But if the objective is clear—to deliver effective analytics swiftly and efficiently to the organization—it might be time to put down that trowel and call in the bricklayer experts.
+
+
+
+
+
+
+
+
+Choosing the Right People Analytics Tool: Insights and Considerations[d]
+
+
+  
+
+1. Define Your Needs: Tableau Enhanced vs. Self-Service Analytics Platform
+
+When considering a people analytics tool, it's important to clarify what you're looking for. Are [e]you looking for a modified version of an existing tool like Tableau, or do you desire a truly self-service analytics platform? The distinction is crucial. A self-service platform empowers users to handle analytics independently, without extensive reliance on IT or data teams. Such a tool should be intuitive enough to cater to both basic and advanced user needs, ensuring that the team can focus on delivering insights rather than getting bogged down in the technicalities.
+
+2. Empowerment vs. Replacement
+
+The ideal tool should serve as an ally to your team, not a replacement. It's about finding a balance. While the tool should be robust enough to handle routine tasks and deliver analytics, it shouldn't negate the need for human expertise.  The tool you choose should help deliver better analytics without sidelining the human brain power that drives the interpretation and application of that data. This ensures that the team remains at the forefront, using the tool as a facilitator rather than a crutch.
+
+3. Specialized Tools vs. Jack-of-All-Trades
+
+Some tools might offer a bit of everything, like analytics combined with surveys. But remember, a tool that tries to do everything might not be the best at any one thing.
+
+
+For instance, if you're aiming to centralize functions like workforce planning, surveys, advanced analytics, and employee engagement, there are platforms like Workday, SAP, or ADP. They're designed to handle a broad range of tasks. But if your main focus is people analytics, then a specialized tool is what you need.
+
+
+It's like wanting a tool that can do analytics and also "make breakfast." It sounds great, but in reality, it might not excel at either. So, if you want a tool for people analytics, go for one that specializes in just that. Avoid getting distracted by extra features that aren't central to your main goal.
+
+
+4. Quick Implementation and Support
+
+When integrating a new tool, time is crucial. If a tool takes nearly a year to set up, its value diminishes. Ideally, the tool should be up and running within a month or two. Any longer, and you're losing precious time that could be spent analyzing and making decisions.
+
+
+But it's not just about how fast you can start using the tool. The support behind it is equally important. The world of people analytics is always changing. Systems update, requirements shift, and having a support team that understands these changes is vital.
+
+
+This team should be more than just a helpdesk. They need to know the ins and outs of people analytics. They should be able to offer insights, suggest best practices, and adapt to the ever-changing landscape of the domain. For example, if they've been in real estate for the past 15 years and suddenly switch to supporting a people analytics tool, there might be a knowledge gap.
+
+
+In short, you need a tool that's quick to implement and backed by a knowledgeable support team that understands the specific challenges of people analytics. Anything less, and you might find yourself struggling to keep up.
+Our Final Thoughts[f]
+  
+
+The journey through the world of people analytics is both intricate and enlightening. From the 'Build vs Buy' debate to the balance between centralization and specialization, the choices we make can significantly impact our organizations.
+
+It's clear that while building a custom tool might seem appealing, the real value lies in understanding our motivations and ensuring that our chosen tool aligns with our team's needs. A tool should empower and enhance, not replace. It should tackle the basics efficiently, be quick to implement, and come with a knowledgeable support team.
+
+But beyond these considerations, there's the challenge of endless ad hoc requests and the need for a genuinely self-service analytics platform. This is where a tool like eqtble comes into play.
+
+Transforming people data and enabling business decisions, eqtble empowers people analysts to shift from mere number crunchers to genuine problem solvers. By bringing together data from HR, Finance, Sales, and more, eqtble offers a holistic analytics experience.
+[a]illustration idea: A proud individual standing on a podium, holding a  gleaming trophy on a pedestal labeled "DIY Champion"
+[b]illustration idea: A magnifying glass over a simple bar graph (indicating the scrutiny and understanding analytics brings).
+[c]Illustration idea: A doctor wearing a stethoscope, confusedly holding a trowel and looking at a pile of bricks.
+[d]Illustration idea: A person standing at a crossroads. Each path is labeled with tool features like "Self-Service", "Quick Implementation", and "Specialized Tool".
+[e]An article on 20 questions to ask before you buy a people analytics tool
+[f]Illustration idea: An open book with "eqtble?" written
